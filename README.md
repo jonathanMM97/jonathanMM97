@@ -29,7 +29,12 @@ En resumen, no me gusta ponerme límites.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## Frameworks
 ![Spring](https://img.shields.io/badge/spring-%230A0FFF.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%26.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![codeigniter](https://img.shields.io/badge/codeigniter-%2320232a.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![symphony](https://img.shields.io/badge/symphony-%23E23237.svg?style=for-the-badge&logo=symphony&logoColor=white)
 
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mu%C3%B1oz-morales-b8aba4254)
