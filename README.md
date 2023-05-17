@@ -10,7 +10,9 @@ En resumen, no me gusta ponerme límites.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/-LUA-green)
+![Lua](https://img.shields.io/badge/LUA-%23323330.svg?style=for-the-badge&logo=LUA&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
+![Php](https://img.shields.io/badge/php-%23.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Tecnologías y Frameworks
 ### Backend
@@ -27,6 +29,7 @@ En resumen, no me gusta ponerme límites.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%230A0FFF.svg?style=for-the-badge&logo=spring&logoColor=white))
 
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mu%C3%B1oz-morales-b8aba4254)
