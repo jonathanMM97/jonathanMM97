@@ -38,3 +38,7 @@ En resumen, no me gusta ponerme límites.
 
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mu%C3%B1oz-morales-b8aba4254)
+
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanMM97&theme=aura&mode=weekly)](https://git.io/streak-stats)
