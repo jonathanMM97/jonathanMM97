@@ -42,3 +42,6 @@ En resumen, no me gusta ponerme límites.
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathanMM97&theme=aura&mode=weekly)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanMM97&show_icons=true&theme=radical)
+
